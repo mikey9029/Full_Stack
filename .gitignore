@@ -39,3 +39,5 @@ yarn-error.log*
 
 # Simulation Scripts
 simulate_history.ps1
+
+# build maintenance: 2026-04-01 22:10:00
